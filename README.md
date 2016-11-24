@@ -1,2 +1,4 @@
-# WAVE-PROJECT
-Wave interview prep
+# Wave-Project
+Wave interview prep code
+
+
